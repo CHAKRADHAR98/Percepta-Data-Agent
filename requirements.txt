@@ -1,0 +1,27 @@
+# Core Agent Dependencies
+uagents>=0.22.5
+uagents-core>=0.3.5
+
+# MeTTa Integration
+hyperon>=0.2.6
+
+# Computer Vision & ML
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# IPFS/Pinata
+pinatapy-vourhey>=0.2.0
+requests>=2.31.0
+
+# LLM Integration (ASI:One)
+openai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+
+# Video Processing
+ffmpeg-python>=0.2.0

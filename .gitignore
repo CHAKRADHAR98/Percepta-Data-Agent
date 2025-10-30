@@ -1,0 +1,27 @@
+# Python virtual environment
+venv/
+/venv/
+
+# Secret keys
+# IMPORTANT: Never commit your .env file!
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated data, videos, and annotations
+# These are created by your pipeline
+dataset/
+output/
+temp/
+
+# uAgent local storage/data files
+# This file stores local agent data
+agent1qwdfq7pjv5_data.json
+
+# Operating System files
+.DS_Store
+Thumbs.db
