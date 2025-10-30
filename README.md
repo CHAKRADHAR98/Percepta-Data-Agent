@@ -19,7 +19,7 @@ This project solves a major bottleneck in robotics research: the creation and sh
 
 ## 📺 Demo Video
 
-[**Watch our 3-minute demo video here**](https://www.loom.com/share/be462918fe64414b85f58557ab3a4de5)
+[**Watch our demo video here**](https://www.loom.com/share/be462918fe64414b85f58557ab3a4de5)
 
 ---
 
